@@ -6,11 +6,12 @@
     font-family: "Poppins", sans-serif;
 }
 body{
-    background: white;
+    background: wheat;
     
 }
 .wrapper{
     width: 330px;
+    height: 800px;
     padding: 2rem 1rem;
     margin: 50px auto;
     background-color:white;

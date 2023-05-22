@@ -6,7 +6,7 @@
     font-family: "Poppins", sans-serif;
 }
 body{
-    background: white;
+    background: wheat;
 }
 .wrapper{
     width: 330px;
@@ -18,7 +18,7 @@ body{
 }
 img{
     border-radius: 50%;
-    margin-left: 75px;
+    margin-left: 90px;
 
 }
 input{
@@ -27,12 +27,14 @@ input{
     border: 1px solid rgb(211, 181, 124);
     padding: 12px 20px;
     margin-bottom: 10px;
+    margin-left: 12px;
     border-radius: 20px;
     background:white;
 }
 button{
     font-size: 1rem;
     margin-top: 1.8rem;
+    margin-left: 12px;
     padding: 10px;
     border-radius: 20px;
     outline: none;
